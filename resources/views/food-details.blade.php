@@ -24,8 +24,8 @@
     <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8  py-20">
         <div>
             <h2 class="flex items-center mb-7 gap-2 text-xl font-semibold"> <i class="ti ti-chef-hat"></i> আমাদের খাবার রেস্টুরেন্টের খাবার সমূহ </h2>
-            <div class="grid md:grid-cols-3 gap-10">
-                <div class="grid grid-cols-2 col-span-2 gap-4">
+            <div class="grid lg:grid-cols-3 gap-10">
+                <div class="grid md:grid-cols-2 lg:col-span-2 gap-4">
                     <x-foods.food-variant />
                     <x-foods.food-variant />
                     <x-foods.food-variant />

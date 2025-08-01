@@ -19,7 +19,7 @@
                 <span class="text-black inline-block py-3 font-extrabold">সেরা রেস্টুরেন্টগুলোর</span> <br> খাবার এখন আপনার দরজায়
             </h1>
 
-            <img src="/food-banners.png" alt="" class="size-74" />
+            <img src="/food-banners.png" alt="" class="size-74 hidden md:block" />
         </div>
     </div>
     <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8 py-20">

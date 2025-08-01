@@ -1,4 +1,4 @@
-<div class="mt-6 flex items-center justify-between text-sm gap-4">
+<div class="mt-6 flex flex-col md:flex-row  md:items-center justify-between text-sm gap-4">
     <div class="h-32 w-full flex-shrink-0 overflow-hidden rounded-lg bg-gray-100 md:w-32">
         <img src="/foods/item-2.jpg" alt="চিকেন বিরিয়ানি" class="h-full w-full object-cover" />
     </div>

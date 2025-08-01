@@ -62,7 +62,7 @@
                      <h4 class="text-lg font-semibold mb-4">যোগাযোগ</h4>
                      <ul class="space-y-2 text-gray-400">
                          <li>+৮৮০ ১৭১২-৩৪৫৬৭৮</li>
-                         <li>info@servicepro.com</li>
+                         <li>info@pouchay.com</li>
                          <li>
                              ১২৩, গুলশান এভিনিউ
                              <br />
