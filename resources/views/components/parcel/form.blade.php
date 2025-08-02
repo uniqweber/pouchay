@@ -1,9 +1,9 @@
  <form class="space-y-8 md:col-span-8">
      <div class="relative space-y-8">
          <div>
-             <h3 class="mb-4 flex items-center text-lg font-semibold text-gray-900">
-                 <div class="bg-white">
-                     <div class="relative z-10 mr-3 flex size-7 items-center justify-center rounded-full border bg-white text-gray-600">
+             <h3 class="mb-4 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
+                 <div class="bg-white dark:bg-gray-900">
+                     <div class="relative z-10 mr-3 flex size-7 items-center justify-center rounded-full border bg-white text-gray-600 dark:bg-gray-800 dark:text-white dark:border-white/10">
                          <i class="ti ti-user"></i>
                      </div>
                  </div>
@@ -30,9 +30,9 @@
              </div>
          </div>
          <div>
-             <h3 class="mb-4 flex items-center text-lg font-semibold text-gray-900">
-                 <div class="bg-white">
-                     <div class="relative z-10 mr-3 flex size-7 items-center justify-center rounded-full border bg-white text-gray-600">
+             <h3 class="mb-4 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
+                 <div class="bg-white dark:bg-gray-900">
+                     <div class="relative z-10 mr-3 flex size-7 items-center justify-center rounded-full border bg-white text-gray-600 dark:bg-gray-800 dark:text-white dark:border-white/10">
                          <i class="ti ti-map-pin"></i>
                      </div>
                  </div>
@@ -58,9 +58,9 @@
              </div>
          </div>
          <div>
-             <h3 class="mb-4 flex items-center text-lg font-semibold text-gray-900">
-                 <div class="bg-white">
-                     <div class="relative z-10 mr-3 flex size-7 items-center justify-center rounded-full border bg-white text-gray-600">
+             <h3 class="mb-4 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
+                 <div class="bg-white dark:bg-gray-900">
+                     <div class="relative z-10 mr-3 flex size-7 items-center justify-center rounded-full border bg-white text-gray-600 dark:bg-gray-800 dark:text-white dark:border-white/10">
                          <i class="ti ti-package"></i>
                      </div>
                  </div>
@@ -98,9 +98,9 @@
              </div>
          </div>
          <div>
-             <h3 class="mb-4 flex items-center text-lg font-semibold text-gray-900">
-                 <div class="bg-white">
-                     <div class="relative z-10 mr-3 flex size-7 items-center justify-center rounded-full border bg-white text-gray-600">
+             <h3 class="mb-4 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
+                 <div class="bg-white dark:bg-gray-900">
+                     <div class="relative z-10 mr-3 flex size-7 items-center justify-center rounded-full border bg-white text-gray-600 dark:bg-gray-800 dark:text-white dark:border-white/10">
                          <i class="ti ti-truck"></i>
                      </div>
                  </div>
@@ -162,10 +162,10 @@
              </button>
          </div>
 
-         <div class="absolute top-2 bottom-0 left-[13px] h-[99%] w-px bg-gray-200"></div>
+         <div class="absolute top-2 bottom-0 left-[13px] h-[99%] w-px dark:bg-gray-700 bg-gray-200"></div>
 
-         <div class="bg-white absolute bottom-0.5">
-             <div class="relative z-10 mr-3 flex size-7 items-center justify-center rounded-full border bg-white text-gray-600">
+         <div class="bg-white dark:bg-gray-900 absolute bottom-0.5">
+             <div class="relative z-10 mr-3 flex size-7 items-center justify-center rounded-full border bg-white text-gray-600 dark:bg-gray-800 dark:text-white dark:border-white/10">
                  <i class="ti ti-arrow-right"></i>
              </div>
          </div>

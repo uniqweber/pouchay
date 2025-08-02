@@ -10,11 +10,11 @@
     @vite('resources/css/app.css')
 </head>
 
-<body class="font-noto-bengali ">
+<body class="font-noto-bengali bg-white dark:bg-gray-900">
     <x-shared.navbar />
-    <div class="bg-gray-100 pt-18">
+    <div class="bg-gray-100 pt-18 ">
         <div class="mx-auto flex h-84 px-4 sm:px-6 lg:px-8 max-w-screen-xl  items-center justify-between">
-            <h1 class="text-3xl  text-gray-400 md:text-5xl t">
+            <h1 class="text-3xl   text-gray-400 md:text-5xl ">
                 জয়পুরহাটের <br />
                 <span class="text-black inline-block py-3 font-extrabold">সেরা রেস্টুরেন্টগুলোর</span> <br> খাবার এখন আপনার দরজায়
             </h1>
@@ -23,7 +23,7 @@
         </div>
     </div>
     <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8 py-20">
-        <h2 class="mb-10 text-lg font-semibold">জনপ্রিয় সকল খাবার </h2>
+        <h2 class="mb-10 text-lg font-semibold dark:text-white">জনপ্রিয় সকল খাবার </h2>
         <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-4">
             @for ($i = 1; $i
             < 8; $i++)

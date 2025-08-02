@@ -52,14 +52,14 @@
 
 @layer components {
     .label {
-        @apply block text-sm font-medium  mb-1;
+        @apply block text-sm font-medium dark:text-white mb-1;
     }
 
     .input {
-        @apply block text-sm px-3 rounded-md w-full h-9 bg-white border focus:shadow outline-none ring-2 ring-offset-1 ring-transparent focus:ring-gray-200 duration-300;
+        @apply block text-sm px-3 bg-white dark:bg-gray-800 dark:border-white/10  dark:text-white dark:placeholder-gray-400  rounded-md w-full h-9  border focus:shadow outline-none ring-2 ring-offset-1 dark:ring-offset-gray-900 ring-transparent  focus:ring-gray-200 duration-300;
     }
     .textarea {
-        @apply block text-sm px-3 rounded-md w-full h-24 bg-white border focus:shadow outline-none ring-2 ring-offset-1 ring-transparent focus:ring-gray-200 duration-300 resize-none pt-2;
+        @apply block text-sm px-3 dark:bg-gray-800 dark:border-white/10   dark:text-white dark:placeholder-gray-400  rounded-md w-full h-24 bg-white border focus:shadow outline-none ring-2 ring-offset-1 dark:ring-offset-gray-900 ring-transparent focus:ring-gray-200 duration-300 resize-none pt-2;
     }
     .button{
         @apply h-9 px-3 rounded-md text-sm font-medium

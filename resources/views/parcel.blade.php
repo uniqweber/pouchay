@@ -14,7 +14,7 @@
     <x-shared.navbar />
     <x-parcel.hero />
 
-    <section class="bg-white">
+    <section class="bg-white dark:bg-gray-900">
         <div id="booking" class="mx-auto grid max-w-screen-xl px-4 sm:px-6 lg:px-8 md:grid-cols-12 gap-20 py-20 ">
             <x-parcel.process />
             <x-parcel.form />
